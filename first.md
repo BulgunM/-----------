@@ -36,3 +36,9 @@ white (index<size) do
         max=numbers[index]
     index=index+1
 print(max)
+```
+
+---
+>Не относитесь к жизни сильно серьёзно, всё равно вам из неё живым не выбраться
+>
+>*Автор*
