@@ -2,9 +2,9 @@
 
 ## Menu
 
-1. Potions
-6. Chips
-2. Code Block
+1. [Potions] (Potions)
+6. [Chips] (Chips) 
+2. [Code Block] (Code)
 
 *Mysterios* 
 
